@@ -1,6 +1,7 @@
 This is the first test project.
 edit file in the github
-111merge 就是zhi造冲突branch
+111就是zhi造冲突branch
+1111merge branch
 这是master分支内容,这是merge分支
 update 修改一下1: version1
 iupdate v2
