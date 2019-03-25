@@ -2,5 +2,5 @@ This is the first test project.
 edit file in the github
 111111merge branch
 这是master分支内容,这是merge分支
-update 修改一下 version1
+update 修改一下1: version1
 iupdate v2
